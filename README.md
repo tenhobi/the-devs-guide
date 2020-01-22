@@ -22,6 +22,7 @@ A dev's collection of useful tools, guides, hacks, know-hows and more.
 - [Architecture](#architecture)
 - [Mobile](#mobile)
 - [Graphics](#graphics)
+- [Education](#education)
 
 ## Health
 
@@ -71,3 +72,11 @@ with A/B tests.
 introduces 7 practical tips for cheating at design.
 - [How to Declutter your Design](https://medium.com/wdstack/how-to-declutter-your-design-88cbd9e45015) – is an article that shows how to
 declutter a design.
+
+## Education
+
+[☝ ToC](#table-of-contents)
+
+- [Cryptopals](https://cryptopals.com) – different way to learn about cryptography
+- [free-programming-book](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources
+

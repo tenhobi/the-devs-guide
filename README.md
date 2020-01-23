@@ -22,6 +22,8 @@ A dev's collection of useful tools, guides, hacks, know-hows and more.
 - [Architecture](#architecture)
 - [Mobile](#mobile)
 - [Graphics](#graphics)
+- [Education](#education)
+- [Challenges](#challenges)
 
 ## Health
 
@@ -71,3 +73,18 @@ with A/B tests.
 introduces 7 practical tips for cheating at design.
 - [How to Declutter your Design](https://medium.com/wdstack/how-to-declutter-your-design-88cbd9e45015) – is an article that shows how to
 declutter a design.
+
+## Education
+
+[☝ ToC](#table-of-contents)
+
+- [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books) – is a set of lists of many free learning resources in
+many spoken languages.
+
+## Challenges
+
+[☝ ToC](#table-of-contents)
+
+- [Codewars](https://www.codewars.com/dashboard) – is a way to improve your
+skills by training with others on real code challenges in many languages.
+- [Cryptopals](https://cryptopals.com) – is a set of crypto challenges.

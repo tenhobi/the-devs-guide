@@ -23,6 +23,7 @@ A dev's collection of useful tools, guides, hacks, know-hows and more.
 - [Mobile](#mobile)
 - [Graphics](#graphics)
 - [Education](#education)
+- [Challenges](#challenges)
 
 ## Health
 
@@ -77,6 +78,13 @@ declutter a design.
 
 [☝ ToC](#table-of-contents)
 
-- [Cryptopals](https://cryptopals.com) – different way to learn about cryptography
-- [free-programming-book](https://github.com/EbookFoundation/free-programming-books) - List of Free Learning Resources
+- [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books) – is a set of lists of many free learning resources in
+many spoken languages.
 
+## Challenges
+
+[☝ ToC](#table-of-contents)
+
+- [Codewars](https://www.codewars.com/dashboard) – is a way to improve your
+skills by training with others on real code challenges in many languages.
+- [Cryptopals](https://cryptopals.com) – is a set of crypto challenges.

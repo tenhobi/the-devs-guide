@@ -1,4 +1,4 @@
-<h1 align="center">The Unknown Guide</h1>
+<h1 align="center">The Dev's Guide</h1>
 
 <p align="center">
 A dev's collection of useful tools, guides, hacks, know-hows and more.

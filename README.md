@@ -49,6 +49,7 @@ chat for gamers and other people.
 improving open-source.
 - [Semantic Line Breaks](https://sembr.org) – is a guide to write better texts.
 - [Semantic Versioning](https://semver.org) – is a guide to version a project.
+- [Asciinema](https://asciinema.org) – is a tool that let's you record and share your terminal sessions, the right way.
 
 ## Architecture
 
